@@ -42,7 +42,7 @@ Web Development,
 
 ## Connect with me 🤝
 
-[![GitHub followers](https://img.shields.io/github/followers/AyeRaj?style=social)](https://www.github.com/sriharikapu) [![Twitter Follow](https://img.shields.io/twitter/follow/AyeRajSingh?style=social)](https://www.twitter.com/AyeRajSingh) [![Linkedin Badge](https://img.shields.io/badge/-AyeRajKumar-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayerajkumar/)](https://www.linkedin.com/in/ayerajkumar/) [![Instagram Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heyrajsingh/)](https://www.instagram.com/heyrajsingh/) [![Facebook Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/heyrajsingh)](https://www.facebook.com/heyrajsingh)
+[![GitHub followers](https://img.shields.io/github/followers/AyeRaj?style=social)](https://www.github.com/sriharikapu) [![Twitter Follow](https://img.shields.io/twitter/follow/AyeRajSingh?style=social)](https://www.twitter.com/AyeRajSingh) [![Linkedin Badge](https://img.shields.io/badge/-AyeRajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayerajkumar/)](https://www.linkedin.com/in/ayerajkumar/) [![Instagram Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heyrajsingh/)](https://www.instagram.com/heyrajsingh/) [![Facebook Badge](https://img.shields.io/badge/-HeyRajSingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/heyrajsingh)](https://www.facebook.com/heyrajsingh)
 
 
 
