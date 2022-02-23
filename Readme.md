@@ -5,14 +5,13 @@
 # <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with my own experience & skills...
 
-Web Development,
-- FrontEnd: React.js | HTML, CSS, JavaScript
-- BackEnd: Django | Node.js
-- Database: MongoDB | OracleSQL
-    - Android Application Development
-    - Coding Skills in Java (DSA)
-    - Additional Skills: JavaScript & Python
-
+- Web Development,
+    - FrontEnd: React.js | HTML, CSS, JavaScript
+    - BackEnd: Django | Node.js
+    - Database: MongoDB | OracleSQL
+- Android Application Development
+- Coding Skills in Java (DSA)
+- Additional Skills: JavaScript & Python
 
 
 ## My Skills 🛠
