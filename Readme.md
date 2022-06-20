@@ -2,8 +2,13 @@
 
 
 
+<<<<<<< HEAD
 # <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
+=======
+# <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj!👋
+I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with my own experience & skills...
+>>>>>>> f7f40d215343a53ac9bf0cd386458459b72735c2
 
 - Web Development,
     - FrontEnd: HTML, CSS, JavaScript
@@ -21,7 +26,7 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  
