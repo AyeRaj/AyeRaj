@@ -2,13 +2,8 @@
 
 
 
-<<<<<<< HEAD
-# <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
-=======
 # <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj!👋
-I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with my own experience & skills...
->>>>>>> f7f40d215343a53ac9bf0cd386458459b72735c2
+I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
 
 - Web Development,
     - FrontEnd: HTML, CSS, JavaScript
