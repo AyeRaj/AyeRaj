@@ -2,8 +2,8 @@
 
 
 
-# <p align="center"> Welcome🙏🏻 </p> 
-<p  align="right"> Contact for Paid Project (ayerajkumar@gmail.com)
+# <p align="center"> Welcome🙏🏻 
+<p  align="right"> Contact for Paid Project ayerajkumar@gmail.com
 
 # Hi, I'm Raj!👋
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
