@@ -5,12 +5,12 @@
 # <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj!👋
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
 
-- Web Development,
+- Web Development Stack,
     - FrontEnd: HTML, CSS, JavaScript
     - BackEnd: Django
-    - Database: MongoDB | OracleSQL
-- Android Application Development
-- Coding Skills in Java (DSA)
+    - Database: SQL | NoSQL
+- Android Application Developer(React Native)
+- Coding Skills in Java (DSA), Solved 1000+ DSA based questions
 - Additional Skills: JavaScript & Python
 
 
