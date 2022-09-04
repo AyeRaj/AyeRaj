@@ -4,8 +4,7 @@
 
 # <p align="center"> Welcome🙏🏻 
 
-📞 Contact for Paid Projects heyrajsingh@gmail.com
-<p align="right">📌 Ping me on LinkedIn for Free Doubt Clearence
+📞 Contact for Paid Projects heyrajsingh@gmail.com              📌 Ping me on LinkedIn for Free Doubt Clearence
 
 # Hi, I'm Raj!👋
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
