@@ -4,6 +4,9 @@
 
 # <p align="center"> Welcome🙏🏻 
 
+📞 Contact for Paid Projects heyrajsingh@gmail.com
+📌 Ping me on LinkedIn for Free Doubt Clearence
+
 # Hi, I'm Raj!👋
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
 
@@ -11,12 +14,12 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
     - FrontEnd: HTML, CSS, JavaScript
     - BackEnd: Django
     - Database: SQL | NoSQL
-- Android Application Developer(React Native)
+- Android Application Developer(React Native & Java)
 - Coding Skills in Java (DSA), Solved 1000+ DSA based questions
 - Additional Skills: JavaScript & Python
 
 
-## My Skills 🛠
+## My Skills 🎓
 
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
