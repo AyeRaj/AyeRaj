@@ -4,7 +4,7 @@
 
 # <p align="center"> Welcome🙏🏻 
 
-📞 Contact me for Projects and Paid Work [Google Form](https://forms.gle/MD3ZGQxGSjyLR4Ms8) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for Free Doubt Clearence
+📞 Contact me for Consults and Paid Work [Google Form](https://forms.gle/MD3ZGQxGSjyLR4Ms8) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
 
 # Hi, I'm Raj!👋
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
