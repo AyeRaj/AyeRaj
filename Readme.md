@@ -7,7 +7,7 @@
 📞 Contact me for Consults and Paid Work [Google Form](https://forms.gle/MD3ZGQxGSjyLR4Ms8) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
 
 # Hi, I'm Raj!👋
-I'm a Computer Science Student, & I'm Professional in my own work, as I have the experinece of more than 50+ projects that I have completed till now in the domain of Web Development(FrontEnd, Backend & Full Stack) with Advanced Framework.
+I'm a Computer Science Student, & I'm Professional in my own work, as I have the experience of more than 50+ projects that I have completed till now in the domain of Web Development(FrontEnd, Backend & Full Stack) with Advanced Framework.
 
 ### Skills I Have,
 - Web Development Stack,
