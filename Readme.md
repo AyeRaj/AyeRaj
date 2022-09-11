@@ -1,4 +1,4 @@
-</p><img src="https://komarev.com/ghpvc/?username=AyeRaj&label=Profile%20Visiters&color=0e75b6&style=flat" alt="AyeRaj" />
+</p><img src="https://komarev.com/ghpvc/?username=AyeRaj&label=Profile%20Visitors&color=0e75b6&style=flat" alt="AyeRaj" />
 
 
 
