@@ -7,7 +7,7 @@
 Contact me for Freelance Project [Form](https://forms.gle/MD3ZGQxGSjyLR4Ms8) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
 
 # Hi, I'm Raj!👋
-I'm a Computer Science student, and I'm professional in my own work, as I have experience of more than 50+ projects that I have completed till now in the domain of Web Development (FrontEnd, Backend, and Full Stack) with Advanced Framework.
+I'm a Computer Science student, and I'm professional in my work, as I have experience of more than 50+ projects that I have completed till now in the domain of Web Development (FrontEnd, Backend, and Full Stack) with Advanced Framework.
 
 ### Skills I Have,
 - Web Development Stack,
