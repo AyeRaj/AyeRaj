@@ -4,8 +4,6 @@
 
 # <p align="center"> Welcome🙏🏻 
 
-Contact me for Freelance Project [Form](https://forms.gle/U9spFQGwt2TLF2WE6) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
-
 # Hi, I'm Raj!👋
 I'm a Computer Science student, and I'm professional in my work, as I have experience of more than 50+ projects that I have completed till now in the domain of Web Development (FrontEnd, Backend, and Full Stack) with Advanced Framework.
 
@@ -46,6 +44,9 @@ I'm a Computer Science student, and I'm professional in my work, as I have exper
 
 ## Connect with me 🤝
 [![GitHub followers](https://img.shields.io/github/followers/AyeRaj?style=social)](https://www.github.com/AyeRaj) [![Linkedin Badge](https://img.shields.io/badge/-AyeRajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayerajkumar/)](https://www.linkedin.com/in/ayerajkumar/) [![Instagram Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heyrajsingh/)](https://www.instagram.com/heyrajsingh/) [![Twitter Follow](https://img.shields.io/twitter/follow/AyeRajSingh?style=social)](https://www.twitter.com/AyeRajSingh) [![Facebook Badge](https://img.shields.io/badge/-HeyRajSingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/heyrajsingh)](https://www.facebook.com/heyrajsingh)
+
+
+Contact me for Freelance Project [Form](https://forms.gle/U9spFQGwt2TLF2WE6) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
 
 
 
