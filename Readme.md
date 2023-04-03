@@ -2,51 +2,72 @@
 
 
 
-# <p align="center"> Welcome🙏🏻 
+<h1 align="center"> Hey 👋🏻, I'm Raj </br> 
+</h1>
+<p align="center">Software Developer</p>
 
-# Hi, I'm Raj!👋
-I'm a Computer Science student, and I'm professional in my work, as I have experience of more than 50+ projects that I have completed till now in the domain of Web Development (FrontEnd, Backend, and Full Stack) with Advanced Framework.
+<p align="center">
+<a href="https://auth.geeksforgeeks.org/user/ayerajkumar/practice" target="_blank"><img alt="" src="https://img.shields.io/badge/GeeksforGeeks-000?logo=GeeksforGeeks&logoColor=2FF200&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/ayerajkumar" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://github.com/ayeraj" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-000?logo=github&logoColor=f4f9fe&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://leetcode.com/ayerajkumar/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-### Skills I Have,
-- Web Development Stack,
-    - FrontEnd: HTML, CSS, JavaScript
-    - BackEnd: Django
-    - Database: SQL | NoSQL
-- Android Application Developer(React Native & Java)
-- Coding Skills in Java (DSA), Solved 1000+ DSA based questions
-- Additional Skills: JavaScript & Python
+I'm a Computer Science Engineer with extensive experience in development. Over the years, I have completed more than 40 projects in various domains, including Frontend, Backend, and Full Stack. I specialize in using advanced frameworks to deliver high-quality and efficient solutions to build the product.
 
+<!-- ## My GitHub Stats ⚡ -->
 
-## My Skills 🎓
+![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeraj&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+## Tech Stack 💻
+#### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+#### Framework & Library
+![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=green)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
+#### Database/State
+![MySQL](https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+#### Backend Language
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<!-- #### Web Hosting
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+<!-- 
+## Top Langauges 👩‍💻
  
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
- 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeujjawalsingh&hide=TeX&layout=compact) -->
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> 
-
-</p>
-
-<br/>
+<!-- ## Thanks for Visiting my GitHub Profile! -->
+<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
 
 ## Connect with me 🤝
 [![GitHub followers](https://img.shields.io/github/followers/AyeRaj?style=social)](https://www.github.com/AyeRaj) [![Linkedin Badge](https://img.shields.io/badge/-AyeRajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayerajkumar/)](https://www.linkedin.com/in/ayerajkumar/) [![Instagram Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heyrajsingh/)](https://www.instagram.com/heyrajsingh/) [![Twitter Follow](https://img.shields.io/twitter/follow/AyeRajSingh?style=social)](https://www.twitter.com/AyeRajSingh) [![Facebook Badge](https://img.shields.io/badge/-HeyRajSingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/heyrajsingh)](https://www.facebook.com/heyrajsingh)
 
+📞 Contact me for Consults and Paid Work [Google Form](https://forms.gle/U9spFQGwt2TLF2WE6) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
 
-Contact me for Freelance Project [Form](https://forms.gle/U9spFQGwt2TLF2WE6) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayerajkumar/) for any Doubt Clearence
+
+
+
+
 
 
 
