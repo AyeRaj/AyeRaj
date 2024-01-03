@@ -18,7 +18,7 @@ I'm a Software Engineer with extensive experience in development. Over the years
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeraj&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
-## Tech Stack 💻
+## Technical Skills 🎓
 #### Languages
 ![Java](https://img.shields.io/badge/java-E4E4E4?style=for-the-badge&logo=Java&logoColor=0)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
