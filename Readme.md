@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey 👋🏻, I'm Raj </br> 
 </h1>
-<p align="center">Software Developer</p>
+<p align="center">Software Developer Engineer</p>
 
 <p align="center">
 <a href="https://auth.geeksforgeeks.org/user/ayerajkumar/practice" target="_blank"><img alt="" src="https://img.shields.io/badge/GeeksforGeeks-000?logo=GeeksforGeeks&logoColor=2FF200&style=for-the-badge" style="vertical-align:center" /></a>
@@ -12,7 +12,7 @@
 <a href="https://instagram.com/HeyRajSingh" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-DC007B?logo=instagram&logoColor=000000&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://leetcode.com/ayerajkumar/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-I'm a Software Engineer with extensive experience in development. Over the years, I have completed more than 40 projects in various domains, including Frontend, Backend, and Full Stack. I specialize in using advanced frameworks to deliver high-quality and efficient solutions to build the product.
+Hey !!!, I'm Software Development Engineer, working in Product Based MNC, I got extensive experience in Java technologies, with Spring Boot, Microservices, Rest API, Database, MySQL, Postgres, Linux, System Designing...
 
 <!-- ## My GitHub Stats ⚡ -->
 
