@@ -26,9 +26,9 @@ Hey !!!, I'm Software Development Engineer, working in Product Based MNC, I got 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 #### Framework & Library
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
 ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=green)
 
 #### Database/State
@@ -37,9 +37,9 @@ Hey !!!, I'm Software Development Engineer, working in Product Based MNC, I got 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Backend Language
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/-Flask-E4E4E4?style=for-the-badge&logo=flask&logoColor=000000)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
 ![Node](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=nodedotjs)
 
 <!-- #### Web Hosting
