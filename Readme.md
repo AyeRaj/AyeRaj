@@ -1,4 +1,4 @@
-</p><img src="https://komarev.com/ghpvc/?username=AyeRaj&label=Profile%20Visitors&color=0e75b6&style=flat" alt="AyeRaj" />
+</p><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Profile%20Visitors&color=0e75b6&style=flat" alt="RajSDE" />
 
 
 
@@ -16,7 +16,7 @@ Hey !!!, I'm Software Development Engineer, working in Product Based MNC, I got 
 
 <!-- ## My GitHub Stats ⚡ -->
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeraj&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajSDE&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
 ## Technical Skills 🎓
 #### Languages
@@ -58,7 +58,7 @@ Hey !!!, I'm Software Development Engineer, working in Product Based MNC, I got 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
 
 ## Connect with me 🤝
-[![GitHub followers](https://img.shields.io/github/followers/AyeRaj?style=social)](https://www.github.com/AyeRaj) [![Linkedin Badge](https://img.shields.io/badge/-AyeRajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayerajkumar/)](https://www.linkedin.com/in/ayerajkumar/) [![Instagram Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Instagram&logoColor=FB00BA&link=https://www.instagram.com/heyrajsingh/)](https://www.instagram.com/heyrajsingh/) [![Twitter Follow](https://img.shields.io/twitter/follow/AyeRajSingh?style=social)](https://www.twitter.com/AyeRajSingh) [![Facebook Badge](https://img.shields.io/badge/-HeyRajSingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/heyrajsingh)](https://www.facebook.com/heyrajsingh)
+[![GitHub followers](https://img.shields.io/github/followers/RajSDE?style=social)](https://www.github.com/RajSDE) [![Linkedin Badge](https://img.shields.io/badge/-AyeRajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayerajkumar/)](https://www.linkedin.com/in/ayerajkumar/) [![Instagram Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Instagram&logoColor=FB00BA&link=https://www.instagram.com/heyrajsingh/)](https://www.instagram.com/heyrajsingh/) [![Twitter Follow](https://img.shields.io/twitter/follow/AyeRajSingh?style=social)](https://www.twitter.com/AyeRajSingh) [![Facebook Badge](https://img.shields.io/badge/-HeyRajSingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/heyrajsingh)](https://www.facebook.com/heyrajsingh)
 
 
 
